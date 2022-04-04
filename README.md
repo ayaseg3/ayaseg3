@@ -2,7 +2,7 @@
 &nbsp;
 <h3 align="center">I am a first-year master's student.</h3>
 - 🌱 I’m currently learning **Python** 
-- 💪 My hobby is **weight training**
+- 🤔 My hobby is **weight training**
 
 
 
