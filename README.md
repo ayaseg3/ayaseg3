@@ -1,4 +1,8 @@
-## Ayase
+<h1 align="center">Hi 👋, I'm Ayase</h1>
+&nbsp;
+<h3 alige="center">I am a first-year master's student.</h3>
+
+
 
 
 
