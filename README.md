@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayase　Morita</h1>
+<h1 align="center">Hi 👋, I'm Ayase Morita</h1>
 &nbsp;
 <h3 align="center">I am a first-year master's student.</h3>
 
